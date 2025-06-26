@@ -1,0 +1,11 @@
+@charset "ulf-8";
+
+body {
+	font-family: serif;
+}
+
+h2 {
+	font-family:""遊ゴシック sans-serif;
+    font-size:40px;
+    color: rgb(70, 203, 218);
+}
